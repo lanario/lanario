@@ -1,5 +1,4 @@
-### Hi there 👋, welcome to my profile page!
-
+### Hi there <img align="left" alt="Hi" height="60" src="https://github.com/lanario/lanario/blob/main/hi.gif"> , welcome to my profile page!
 <!-- Você pode adicionar uma breve introdução aqui -->
 
 Some of the technologies I work with:
