@@ -20,8 +20,7 @@ Some of the technologies I work with:
 
 <img align="right" alt="Metal Slug Soldado" height="60" src="https://github.com/lanario/lanario/blob/main/atiradormetalslug-ezgif.com-rotate.gif">
 
-<img align="right" alt="Metal Slug Avatar" height="60" src="https://giphy.com/stickers/metal-slug-SDPYGZbzpE2fC">
-
+<img align="top" alt="Metal Slug Avatar" height="60" src="https://giphy.com/embed/nWj8AZ4mLeja8">
 
 
 
