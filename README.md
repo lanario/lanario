@@ -16,15 +16,11 @@ Some of the technologies I work with:
 </p>
 
 
-<img align="right" alt=".50 metal slug" height="200" src="https://media.giphy.com/media/nWj8AZ4mLeja8/giphy.gif">
+<img align="right" alt=".50 metal slug" height="220" src="https://media.giphy.com/media/nWj8AZ4mLeja8/giphy.gif">
 
-<img align="right" alt="Metal Slug Avatar" height="60" src="https://media.giphy.com/media/139z8Wl26qjcHu/giphy.gif">
+<img align="right" alt="Metal Slug Avatar" height="50" src="https://media.giphy.com/media/139z8Wl26qjcHu/giphy.gif">
 
-<img align="top" alt="Metal Slug Action" height="60" src="https://media.giphy.com/media/SDPYGZbzpE2fC/giphy.gif">
-
-
-...
-
+<img align="top" alt="Metal Slug Action" height="50" src="https://media.giphy.com/media/SDPYGZbzpE2fC/giphy.gif">
 
 
 
