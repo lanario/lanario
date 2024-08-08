@@ -15,9 +15,6 @@ Aqui estão algumas das tecnologias que eu trabalho:
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
 
-\n
-\n
-
 
 Aqui estão algumas maneiras de entrar em contato comigo:
 </p>
