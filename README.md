@@ -17,7 +17,7 @@ Some of the technologies I work with:
 
 <img align="right" alt="Cowboy" height="160" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
 
-<img align="right" alt="Coding Penguin" height="160" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+
 
 
 
