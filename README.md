@@ -20,7 +20,7 @@ Aqui estão algumas maneiras de entrar em contato comigo:
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/seu_usuario" target="_blank">
+  <a href="[https://www.instagram.com/seu_usuario](https://www.instagram.com/alan.barr0s?igsh=MTZ5OTVnMDJrY2RrdA==)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="mailto:seu_email@gmail.com" target="_blank">
