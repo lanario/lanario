@@ -38,8 +38,7 @@ Aqui estão algumas maneiras de entrar em contato comigo:
 
   <p align="left"> 
     Visitor count<br>
-    <img alight="left" src="https://profile-counter.glitch.me/brunorafaeI/count.svg" />
+   ![Visitor Count](https://profile-counter.glitch.me/lanario/count.svg)
   </p>
-  ![Snake animation](https://github.com/brunorafaeI/brunorafaeI/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+ /div>
