@@ -17,6 +17,18 @@ Some of the technologies I work with:
 
 <img align="right" alt="Cowboy" height="160" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
 
+<img align="right" alt="Metal Slug" height="160" src="https://media.giphy.com/media/nWj8AZ4mLeja8/giphy.gif">
+
+<img align="right" alt="Metal Slug Avatar" height="160" src="https://media.giphy.com/media/139z8Wl26qjcHu/giphy.gif">
+
+<img align="right" alt="Metal Slug Action" height="160" src="https://media.giphy.com/media/SDPYGZbzpE2fC/giphy.gif">
+
+
+...
+
+
+
+
 
 
 
