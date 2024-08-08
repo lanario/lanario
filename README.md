@@ -2,20 +2,6 @@
 
 <!-- Você pode adicionar uma breve introdução aqui -->
 
-## Experiências
-
-Aqui estão algumas das minhas experiências profissionais e projetos:
-
-<p align="center">
-  <!-- Adicione logos das suas experiências, certifique-se de que as imagens estejam hospedadas ou use URLs diretas -->
-  <img src="https://via.placeholder.com/40?text=Logo1" alt="Logo 1" style="margin-right: 20px;"/>
-  <img src="https://via.placeholder.com/40?text=Logo2" alt="Logo 2" style="margin-right: 20px;"/>
-  <img src="https://via.placeholder.com/40?text=Logo3" alt="Logo 3" style="margin-right: 20px;"/>
-  <!-- Continue adicionando mais logos conforme necessário -->
-</p>
-
-## Tecnologias que uso
-
 Aqui estão algumas das tecnologias que eu trabalho:
 
 <p align="center">
@@ -30,9 +16,6 @@ Aqui estão algumas das tecnologias que eu trabalho:
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
 
 </p>
-## Contatos
-
-Aqui estão algumas maneiras de entrar em contato comigo:
 
 <p align="center">
   <a href="https://www.instagram.com/seu_usuario" target="_blank">
