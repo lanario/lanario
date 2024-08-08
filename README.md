@@ -34,4 +34,4 @@ Here are some ways to contact me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-barrosdev15/)
 
 ### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/lanario/count.svg)
+![Visitor Count]([https://profile-counter.glitch.me/lanario/count.svg](https://github.com/lanario/lanario/blob/main/visitor_count.svg))
