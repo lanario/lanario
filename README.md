@@ -18,7 +18,7 @@ Algumas das tecnologias com as quais eu trabalho:
 
 <img align="right" alt="Cowboy" height="160" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
 
-Aqui estão algumas maneiras de entrar em contato comigo:
+Here are some ways to contact me:
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alan.barr0s?igsh=MTZ5OTVnMDJrY2RrdA==)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanbarros.dev15@gmail.com)
