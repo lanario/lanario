@@ -25,10 +25,11 @@ Aqui estão algumas das tecnologias que eu trabalho:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+  <img src=" https://img.shields.io/npm/v/npm.svg?logo=nodedotjs" alt="NodeJS Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
-</p>
 
+</p>
 ## Contatos
 
 Aqui estão algumas maneiras de entrar em contato comigo:
