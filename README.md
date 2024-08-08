@@ -18,7 +18,7 @@ Algumas das tecnologias com as quais eu trabalho:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;"/>
 
   <img align="right" alt="Cowboy"  height="160" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
-</div>
+
 
 Aqui estão algumas maneiras de entrar em contato comigo:
 
