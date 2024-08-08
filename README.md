@@ -33,10 +33,10 @@ Aqui estão algumas maneiras de entrar em contato comigo:
   <a href="https://www.linkedin.com/in/alan-barrosdev15/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+ /div>
 
 ## Contador de visitantes
+![Visitor Count](https://profile-counter.glitch.me/lanario/count.svg)
 
- ![Visitor Count](https://profile-counter.glitch.me/lanario/count.svg)
 
 
- /div>
