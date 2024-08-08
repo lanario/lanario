@@ -36,9 +36,7 @@ Aqui estão algumas maneiras de entrar em contato comigo:
 
 ## Contador de visitantes
 
-  <p align="left"> 
-    Visitor count<br>
-   ![Visitor Count](https://profile-counter.glitch.me/lanario/count.svg)
-  </p>
+ ![Visitor Count](https://profile-counter.glitch.me/lanario/count.svg)
+
 
  /div>
