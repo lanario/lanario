@@ -15,13 +15,12 @@ Some of the technologies I work with:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
-<img align="right" alt="Cowboy" height="160" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
 
-<img align="right" alt="Metal Slug" height="160" src="https://media.giphy.com/media/nWj8AZ4mLeja8/giphy.gif">
+<img align="right" alt=".50 metal slug" height="200" src="https://media.giphy.com/media/nWj8AZ4mLeja8/giphy.gif">
 
-<img align="right" alt="Metal Slug Avatar" height="160" src="https://media.giphy.com/media/139z8Wl26qjcHu/giphy.gif">
+<img align="right" alt="Metal Slug Avatar" height="80" src="https://media.giphy.com/media/139z8Wl26qjcHu/giphy.gif">
 
-<img align="right" alt="Metal Slug Action" height="160" src="https://media.giphy.com/media/SDPYGZbzpE2fC/giphy.gif">
+<img align="top" alt="Metal Slug Action" height="60" src="https://media.giphy.com/media/SDPYGZbzpE2fC/giphy.gif">
 
 
 ...
