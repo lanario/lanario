@@ -1,4 +1,4 @@
-### Hi there <img alt="Hi" height="30" src="https://github.com/lanario/lanario/blob/main/hi.gif"> , welcome to my profile page!
+### Hi there <img alt="Hi" height="30" src="https://github.com/lanario/lanario/blob/main/assets/hi.gif"> , welcome to my profile page!
 <!-- Você pode adicionar uma breve introdução aqui -->
 
 <p>
