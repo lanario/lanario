@@ -42,5 +42,5 @@ Here are some ways to contact me:
 ![Visitor Count](https://profile-counter.glitch.me/lanario/count.svg)
 
 
-<img src="https://raw.githubusercontent.com/lanario/lanario/output/snake.svg" alt="Snake animation" />
+
 
