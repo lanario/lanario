@@ -1,6 +1,11 @@
 ### Hi there <img alt="Hi" height="30" src="https://github.com/lanario/lanario/blob/main/hi.gif"> , welcome to my profile page!
 <!-- Você pode adicionar uma breve introdução aqui -->
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=lanario&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lanario&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</p>
+
 Some of the technologies I work with:
 
 <p align="left">
@@ -35,4 +40,7 @@ Here are some ways to contact me:
 
 ### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/lanario/count.svg)
+
+
+<img src="https://raw.githubusercontent.com/lanario/lanario/output/snake.svg" alt="Snake animation" />
 
