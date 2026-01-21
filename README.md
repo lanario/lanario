@@ -10,16 +10,32 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lanario&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&border_radius=10" height="170" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lanario&theme=dracula&hide_border=false&border_radius=10" height="170" alt="streak stats" />
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanario&layout=compact&theme=dracula&hide_border=false&border_radius=10" alt="languages" />
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=lanario&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000" 
+  height="160"
+/>
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=lanario&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000" 
+  height="160"
+/>
+
 </div>
 
----
+<br/>
+
+<div align="center">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanario&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000" 
+  height="140"
+/>
+
+</div>
 
 ## 🛠️ Tech Stack
 
