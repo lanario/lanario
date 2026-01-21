@@ -9,8 +9,6 @@
 ---
 <div align="center">
 
-### 📫 Let's Connect!
-
 <a href="https://www.instagram.com/alan.barr0s?igsh=MTZ5OTVnMDJrY2RrdA==">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
