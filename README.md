@@ -10,8 +10,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 <img 
@@ -34,7 +32,7 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanario&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000" 
   height="140"
 />
-
+---
 </div>
 
 ## 🛠️ Tech Stack
