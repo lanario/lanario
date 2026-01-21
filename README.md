@@ -1,45 +1,90 @@
-### Hi there <img alt="Hi" height="30" src="https://github.com/lanario/lanario/blob/main/assets/hi.gif"> , welcome to my profile page!
-<!-- Você pode adicionar uma breve introdução aqui -->
+<div align="center">
+  
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome to my profile!
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lanario&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</p>
+### 💻 Full Stack Developer | 🎮 Gaming Enthusiast | 🚀 Tech Lover
 
-Some of the technologies I work with:
+</div>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 50px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="margin-right: 50px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="margin-right: 50px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="margin-right: 50px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 50px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 50px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin-right: 50px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 50px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin-right: 50px;"/>
-</p>
+---
 
+## 📊 GitHub Stats
 
+<div align="center">
 
-<img align="right" alt=".50 atiradora metal slug" height="220" src="https://media.giphy.com/media/nWj8AZ4mLeja8/giphy.gif">
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=lanario&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000" 
+  height="160"
+/>
 
-<img align="right" alt="Metal Slug Soldado" height="60" src="https://github.com/lanario/lanario/blob/main/assets/atiradormetalslug-ezgif.com-rotate.gif">
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=lanario&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000" 
+  height="160"
+/>
 
-<img align="center" alt="Metal Slug Action" height="60" src="https://media.giphy.com/media/SDPYGZbzpE2fC/giphy.gif">
+</div>
 
+<br/>
 
+<div align="center">
 
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanario&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000" 
+  height="140"
+/>
+---
+</div>
 
+## 🛠️ Tech Stack
 
-Here are some ways to contact me:
+<div align="center">
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alan.barr0s?igsh=MTZ5OTVnMDJrY2RrdA==)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanbarros.dev15@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-barrosdev15/)
+### Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
 
-### Visitor Count
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,pandas" />
+
+### Databases & Tools
+<img src="https://skillicons.dev/icons?i=postgresql,git,github,vscode" />
+
+</div>
+
+---
+
+## 🎮 Fun Zone
+
+<div align="center">
+  <img src="https://media.giphy.com/media/nWj8AZ4mLeja8/giphy.gif" width="300" alt="Metal Slug"/>
+  <img src="https://media.giphy.com/media/SDPYGZbzpE2fC/giphy.gif" width="300" alt="Metal Slug Action"/>
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alan.barr0s?igsh=MTZ5OTVnMDJrY2RrdA==)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanbarros.dev15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-barrosdev15/)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 👁️ Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/lanario/count.svg)
 
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/lanario/lanario/blob/output/github-contribution-grid-snake.svg)
 
+</div>
 
+---
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote"/>
+</div>
